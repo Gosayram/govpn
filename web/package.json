@@ -45,6 +45,6 @@
     "eslint-plugin-react-refresh": "^0.4.1",
     "prettier": "^2.8.8",
     "typescript": "^5.0.4",
-    "vite": "^6.3.5"
+    "vite": "^6.3.6"
   }
 }
